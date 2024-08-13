@@ -2,7 +2,7 @@
 
 Aplicación web que utiliza la API de JSONPlaceholder para obtener y mostrar una lista de posts. La interfaz permite mostrar un listado de posts al hacer click en un botón.
 
-## Obejtivo.
+## Objetivo.
 Validar conocimientos en el trabajo con APIs y manejo de
 errores.
 
